@@ -1,4 +1,4 @@
-## Automated Dedicated Gameserver, Programm and Tool Imageserver for TekBASE
+## Automated Gameserver, Addons and Program Imageserver for TekBASE
 <p>
     <a href="https://travis-ci.com/celltek/imageserver"><img src="https://img.shields.io/travis/elltek/imageserver/master.svg" alt="Build Status"></a>
     <a href="https://github.com/celltek/imageserver/releases"><img src="https://img.shields.io/github/v/release/celltek/imageserver.svg" alt="Release"></a>
