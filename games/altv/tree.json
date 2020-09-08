@@ -1,0 +1,23 @@
+[{"type":"directory","name": ".","contents":[
+    {"type":"file","name":"AltV.Net.Host.dll"},
+    {"type":"file","name":"AltV.Net.Host.runtimeconfig.json"},
+    {"type":"file","name":"altv-server"},
+    {"type":"directory","name":"data","contents":[
+      {"type":"file","name":"vehmodels.bin"},
+      {"type":"file","name":"vehmods.bin"}
+    ]},
+    {"type":"directory","name":"modules","contents":[
+      {"type":"directory","name":"js-module","contents":[
+        {"type":"file","name":"libjs-module.so"},
+        {"type":"file","name":"libnode.so.72"}
+      ]},
+      {"type":"file","name":"libcsharp-module.so"}
+    ]},
+    {"type":"file","name":"server.cfg"},
+    {"type":"file","name":"start.sh"},
+    {"type":"file","name":"tree.json"},
+    {"type":"file","name":"up.sh"},
+    {"type":"file","name":"version"}
+  ]},
+  {"type":"report","directories":3,"files":13}
+]
