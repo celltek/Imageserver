@@ -1,0 +1,5 @@
+./tf/addons/metamod/sourcemod.vdf
+./tf/addons/sourcemod
+./tf/cfg/sourcemod/sm_warmode_off.cfg
+./tf/cfg/sourcemod/sm_warmode_on.cfg
+./tf/cfg/sourcemod/sourcemod.cfg

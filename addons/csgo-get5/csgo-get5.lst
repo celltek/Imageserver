@@ -1,0 +1,9 @@
+./csgo/addons/sourcemod/configs/get5
+./csgo/addons/sourcemod/plugins/get5.smx
+./csgo/addons/sourcemod/plugins/disabled/get5_apistats.smx
+./csgo/addons/sourcemod/plugins/disabled/get5_mysqlstats.smx
+./csgo/addons/sourcemod/scripting/get5
+./csgo/addons/sourcemod/scripting/get5.sp
+./csgo/addons/sourcemod/scripting/get5_apistats.sp
+./csgo/addons/sourcemod/scripting/get5_mysqlstats.sp
+./csgo/cfg/get5

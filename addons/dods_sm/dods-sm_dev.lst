@@ -1,0 +1,5 @@
+./dod/addons/metamod/sourcemod.vdf
+./dod/addons/sourcemod
+./dod/cfg/sourcemod/sm_warmode_off.cfg
+./dod/cfg/sourcemod/sm_warmode_on.cfg
+./dod/cfg/sourcemod/sourcemod.cfg

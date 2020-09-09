@@ -1,0 +1,5 @@
+./hl2mp/addons/metamod/sourcemod.vdf
+./hl2mp/addons/sourcemod
+./hl2mp/cfg/sourcemod/sm_warmode_off.cfg
+./hl2mp/cfg/sourcemod/sm_warmode_on.cfg
+./hl2mp/cfg/sourcemod/sourcemod.cfg

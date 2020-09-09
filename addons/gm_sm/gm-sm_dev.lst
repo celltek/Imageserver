@@ -1,0 +1,5 @@
+./garrysmod/addons/metamod/sourcemod.vdf
+./garrysmod/addons/sourcemod
+./garrysmod/cfg/sourcemod/sm_warmode_off.cfg
+./garrysmod/cfg/sourcemod/sm_warmode_on.cfg
+./garrysmod/cfg/sourcemod/sourcemod.cfg
