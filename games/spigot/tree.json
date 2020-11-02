@@ -1,0 +1,10 @@
+[{"type":"directory","name": ".","contents":[
+    {"type":"file","name":"eula.txt"},
+    {"type":"file","name":"spigot.jar"},
+    {"type":"file","name":"start.sh"},
+    {"type":"file","name":"tree.json"},
+    {"type":"file","name":"up.sh"},
+    {"type":"file","name":"version"}
+  ]},
+  {"type":"report","directories":0,"files":6}
+]
