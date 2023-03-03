@@ -1,0 +1,6 @@
+./run.bat
+./run.sh
+./user_jvm_args.txt
+./defaultconfigs
+./config
+./libraries
