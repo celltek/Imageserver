@@ -191,7 +191,7 @@
       {"type":"file","name":"craftbukkit-craftbukkit1182.tar"},
       {"type":"file","name":"craftbukkit-craftbukkit1193.lst"},
       {"type":"file","name":"craftbukkit-craftbukkit1193.tar"},
-      {"type":"link","name":"minecraft-craftbukkit1171.lst"},
+	  {"type":"link","name":"minecraft-craftbukkit1171.lst"},
       {"type":"link","name":"minecraft-craftbukkit1171.tar"},
       {"type":"link","name":"minecraft-craftbukkit1182.lst"},
       {"type":"link","name":"minecraft-craftbukkit1182.tar"},
@@ -215,11 +215,13 @@
       {"type":"file","name":"minecraft-minecraft1192.tar"},
       {"type":"file","name":"minecraft-minecraft1193.lst"},
       {"type":"file","name":"minecraft-minecraft1193.tar"},
+      {"type":"file","name":"minecraft-minecraft1194.lst"},
+      {"type":"file","name":"minecraft-minecraft1194.tar"},
       {"type":"file","name":"minecraft-paper1171.lst"},
       {"type":"file","name":"minecraft-paper1171.tar"},
       {"type":"file","name":"minecraft-paper1182.lst"},
       {"type":"file","name":"minecraft-paper1182.tar"},
-      {"type":"link","name":"minecraft-spigot1171.lst"},
+	  {"type":"link","name":"minecraft-spigot1171.lst"},
       {"type":"link","name":"minecraft-spigot1171.tar"},
       {"type":"link","name":"minecraft-spigot1182.lst"},
       {"type":"link","name":"minecraft-spigot1182.tar"},
@@ -303,7 +305,6 @@
     {"type":"file","name":"ti.tar.md5"},
     {"type":"file","name":"towerunite.tar"},
     {"type":"file","name":"towerunite.tar.md5"},
-    {"type":"file","name":"tree.html"},
     {"type":"file","name":"tree.json"},
     {"type":"file","name":"tto.tar"},
     {"type":"file","name":"tto.tar.md5"},
@@ -324,6 +325,4 @@
     {"type":"file","name":"wreckfest.tar"},
     {"type":"file","name":"wreckfest.tar.md5"}
   ]}
-,
-  {"type":"report","directories":2,"files":319}
 ]
