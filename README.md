@@ -8,6 +8,7 @@
 </p>
 
 The Imageserver is a comprehensive solution that serves as a central repository for Dedicated Server Files, programs, addons, and mods. It also includes a database for TekBASE, a popular hosting control panel for game servers. With the Imageserver, you can easily manage, store, and distribute various files and data, ensuring efficient access and seamless integration within your server infrastructure. Simplify your file management and enhance your server operations with the Imageserver.
+
 ------
 
 ## Documentation
