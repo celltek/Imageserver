@@ -34,9 +34,3 @@ body:
     options:
       - label: Is Linux
         required: true
-- type: textarea
-  attributes:
-    label: Describe the bug
-    description: A clear and concise description of what the bug is and what page it happens on.
-  validations:
-    required: true
