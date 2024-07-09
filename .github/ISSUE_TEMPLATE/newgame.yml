@@ -11,7 +11,7 @@ body:
   attributes:
     label: Main Website Url
   validations:
-    required: false
+    required: true
 - type: input
   attributes:
     label: Steam Store Url
@@ -21,12 +21,12 @@ body:
   attributes:
     label: Changelog Url
   validations:
-    required: false
+    required: true
 - type: input
   attributes:
     label: SteamID
   validations:
-    required: false
+    required: true
 - type: checkboxes
   id: cat-linux
   attributes:
