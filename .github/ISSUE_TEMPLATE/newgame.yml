@@ -28,9 +28,16 @@ body:
   validations:
     required: true
 - type: checkboxes
+  id: cat-players
+  attributes:
+    label: I confirm that the game has more than 100 active players daily.
+    options:
+      - label: Yes
+        required: true
+- type: checkboxes
   id: cat-linux
   attributes:
-    label: I confirm that the game is available for Linux
+    label: I confirm that the game is available for Linux Server
     options:
       - label: Is Linux
         required: true
