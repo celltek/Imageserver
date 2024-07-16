@@ -32,7 +32,7 @@ body:
   attributes:
     label: I confirm that the game has more than 100 active players daily.
     options:
-        label: "Yes"
+      - label: "Yes"
         required: true
 - type: checkboxes
   id: cat-linux
