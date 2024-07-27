@@ -70,7 +70,6 @@ Bonität: Harte Negativdaten (Zahlungsunfähig)
 + united-allstars.de
 + united-servers.eu
 + uphoenix.de
-+ verwaltungsinterface.de
 + violano.de
 + wartex-esports.de
 + webtriga.de
