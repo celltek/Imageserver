@@ -1,4 +1,4 @@
-## Blocklist Domain
+## Blocklist Domains
 
 Bonität: Harte Negativdaten (Zahlungsunfähig)
 
