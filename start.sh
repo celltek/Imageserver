@@ -3,7 +3,7 @@
 REPO="celltek/Imageserver"
 CURRENT_VERSION="2.0.3"
 SCRIPT_NAME="start.sh"
-SCRIPT_URL="https://github.com/celltek/Imageserver/raw/refs/heads/master/SCRIPT_NAME"
+SCRIPT_URL="https://raw.githubusercontent.com/$REPO/main/$SCRIPT_NAME"
 LOG_FILE="script.log"
 
 log() {
