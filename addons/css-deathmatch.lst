@@ -1,0 +1,16 @@
+./cstrike/addons/sourcemod/extensions/cssdm.ext.2.csgo.so
+./cstrike/addons/sourcemod/extensions/cssdm.ext.2.css.so
+./cstrike/addons/sourcemod/gamedata/cssdm.games.txt
+./cstrike/addons/sourcemod/plugins/cssdm/dm_basics.smx
+./cstrike/addons/sourcemod/plugins/cssdm/dm_bot_quotas.smx
+./cstrike/addons/sourcemod/plugins/cssdm/dm_equipment.smx
+./cstrike/addons/sourcemod/plugins/cssdm/dm_preset_spawns.smx
+./cstrike/addons/sourcemod/plugins/cssdm/dm_spawn_protection.smx
+./cstrike/addons/sourcemod/scripting/include/cssdm.inc
+./cstrike/addons/sourcemod/scripting/include/dm_basics.sp
+./cstrike/addons/sourcemod/scripting/include/dm_bot_quotas.sp
+./cstrike/addons/sourcemod/scripting/include/dm_equipment.sp
+./cstrike/addons/sourcemod/scripting/include/dm_preset_spawns.sp
+./cstrike/addons/sourcemod/scripting/include/dm_spawn_protection.sp
+./cstrike/addons/sourcemod/translations/cssdm.phrases.txt
+./cstrike/cfg/cssdm

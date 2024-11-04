@@ -1,0 +1,11 @@
+./cstrike/addons/zb_logs
+./cstrike/addons/eslplugin.so
+./cstrike/addons/eslplugin.vdf
+./cstrike/addons/tagging_plugin.so
+./cstrike/addons/tagging_plugin.vdf
+./cstrike/addons/zblock.so
+./cstrike/addons/zblock.vdf
+./cstrike/cfg/esl*.cfg
+./cstrike/cfg/ungl5on5css.cfg
+./cstrike/cfg/zb_comp.cfg
+./cstrike/cfg/zbblock.cfg
