@@ -23,6 +23,3 @@ For full documentation, visit [docs.celltek.space](https://docs.celltek.space/).
 ## Community
 
 [Join the celltek Discord Server](https://celltek.de/discord)
-
-## Support us ❤
-<a href="https://www.buymeacoffee.com/celltek"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="260px"></a>
